@@ -1,0 +1,45 @@
+{
+  "title": "IMG_3021.JPG",
+  "description": "The Siblings",
+  "url": "https://lh3.googleusercontent.com/-50CJVpheZ1Y/Rt5gDsQq4pI/AAAAAAAATVI/mhTtMRxCfPgeRFbJBY0PxiKFCabacgI4wCLABGAYYCw/s0-d/IMG_3021.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1188978702",
+    "formatted": "Sep 5, 2007, 7:51:42 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1531571757",
+    "formatted": "Jul 14, 2018, 12:35:57 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.23958333,
+    "y": 0.30555555,
+    "width": 0.1375,
+    "height": 0.21388891
+  }, {
+    "name": "Meryl Dakin",
+    "email": "meryldakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/111992294725049706781",
+    "x": 0.37083334,
+    "y": 0.43055555,
+    "width": 0.12916666,
+    "height": 0.20000002
+  }]
+}

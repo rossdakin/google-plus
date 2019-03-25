@@ -1,0 +1,53 @@
+{
+  "title": "IMG_3650.jpg",
+  "description": "Ross, Sarah, Meryl",
+  "url": "https://lh3.googleusercontent.com/-lRw8cSq3nAk/SQN7df0fFGI/AAAAAAAAMEU/lGuQEFxUfP8Od_UYgM34jmHMPsXpQ8-3wCLABGAYYCw/s0-d/IMG_3650.jpg",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1224964981",
+    "formatted": "Oct 25, 2008, 8:03:01 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277411",
+    "formatted": "Feb 27, 2019, 2:23:31 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.18958333,
+    "y": 0.20555556,
+    "width": 0.14166668,
+    "height": 0.225
+  }, {
+    "name": "Sarah",
+    "email": "",
+    "googleProfilePage": "",
+    "x": 0.35833332,
+    "y": 0.28333333,
+    "width": 0.13750002,
+    "height": 0.22222224
+  }, {
+    "name": "Meryl Dakin",
+    "email": "meryldakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/111992294725049706781",
+    "x": 0.70416665,
+    "y": 0.2361111,
+    "width": 0.07916671,
+    "height": 0.125
+  }]
+}

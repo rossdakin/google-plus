@@ -1,0 +1,45 @@
+{
+  "title": "IMG_4319.JPG",
+  "description": "cheers Ross!",
+  "url": "https://lh3.googleusercontent.com/-WnUJNm9Idm8/ToJVe6M11vI/AAAAAAABBpI/Q_Bnglv1EnsjpOrhijoMQjuFuSKKRFqdACLABGAYYCw/s0-d/IMG_4319.JPG",
+  "imageViews": "788",
+  "creationTime": {
+    "timestamp": "1317164411",
+    "formatted": "Sep 27, 2011, 11:00:11 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1546642038",
+    "formatted": "Jan 4, 2019, 10:47:18 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Mike",
+    "email": "msangi1@berkeley.edu",
+    "googleProfilePage": "",
+    "x": 0.5525,
+    "y": 0.28,
+    "width": 0.1608333,
+    "height": 0.139375
+  }, {
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.29,
+    "y": 0.25125,
+    "width": 0.14666668,
+    "height": 0.12812501
+  }]
+}

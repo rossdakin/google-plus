@@ -1,0 +1,37 @@
+{
+  "title": "19897-026-016f.jpg",
+  "description": "Starting the Bike",
+  "url": "https://lh3.googleusercontent.com/-NPIvNzVPkbE/RvbkD9D6SsI/AAAAAAAAMCQ/o_vLfK1QzHc_3Ll4wgUHT8vLId-5HixogCLABGAYYCw/s0-d/19897-026-016f.jpg",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1190585359",
+    "formatted": "Sep 23, 2007, 10:09:19 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1490503995",
+    "formatted": "Mar 26, 2017, 4:53:15 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.4453125,
+    "y": 0.14583333,
+    "width": 0.13671875,
+    "height": 0.109375015
+  }]
+}

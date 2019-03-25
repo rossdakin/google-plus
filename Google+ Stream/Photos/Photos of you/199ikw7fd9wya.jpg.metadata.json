@@ -1,0 +1,45 @@
+{
+  "title": "IMG_0199.jpg",
+  "description": "",
+  "url": "https://lh3.googleusercontent.com/-KuhIJJyFBPU/Uq4_c-fRSBI/AAAAAAAAFB4/tj7qYe5QrqwJ6aXj7T4GAo_b2_d2RhXLQCLABGAYYCw/s0-d/IMG_0199.jpg",
+  "imageViews": "330",
+  "creationTime": {
+    "timestamp": "1387151219",
+    "formatted": "Dec 15, 2013, 11:46:59 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551546513",
+    "formatted": "Mar 2, 2019, 5:08:33 PM UTC"
+  },
+  "geoData": {
+    "latitude": 37.578,
+    "longitude": -122.348,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 37.578,
+    "longitude": -122.348,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.44875,
+    "y": 0.20585774,
+    "width": 0.256875,
+    "height": 0.3991632
+  }, {
+    "name": "Brigitte Bradford",
+    "email": "brigittebradford@gmail.com",
+    "googleProfilePage": "",
+    "x": 0.165,
+    "y": 0.2292887,
+    "width": 0.3275,
+    "height": 0.5096234
+  }]
+}

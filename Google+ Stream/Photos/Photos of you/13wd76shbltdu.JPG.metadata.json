@@ -1,0 +1,45 @@
+{
+  "title": "IMG_6922.JPG",
+  "description": "",
+  "url": "https://lh3.googleusercontent.com/-byN2qVaXV9Y/SOFf5WPklwI/AAAAAAAAMBs/pPp7euJ9gSsobl3vIVjTJuxa6dyRWR_DACLABGAYYCw/s0-d/IMG_6922.JPG",
+  "imageViews": "104",
+  "creationTime": {
+    "timestamp": "1222729701",
+    "formatted": "Sep 29, 2008, 11:08:21 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1490503995",
+    "formatted": "Mar 26, 2017, 4:53:15 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Beth",
+    "email": "eab@eabi.org",
+    "googleProfilePage": "",
+    "x": 0.38833332,
+    "y": 0.215,
+    "width": 0.12916666,
+    "height": 0.115624994
+  }, {
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.805,
+    "y": 0.221875,
+    "width": 0.11916667,
+    "height": 0.1075
+  }]
+}

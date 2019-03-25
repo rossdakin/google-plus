@@ -1,0 +1,61 @@
+{
+  "title": "n648245412_2464842_2592.jpg",
+  "description": "",
+  "url": "https://lh3.googleusercontent.com/-4H4BXja3Zxk/R921wR5DV0I/AAAAAAAAMAs/-jtIS9AfOwEUEVob7zUDnnrs49fdfH9aQCLABGAYYCw/s0-d/n648245412_2464842_2592.jpg",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1205712321",
+    "formatted": "Mar 17, 2008, 12:05:21 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1527870385",
+    "formatted": "Jun 1, 2018, 4:26:25 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Tamara",
+    "email": "",
+    "googleProfilePage": "",
+    "x": 0.455298,
+    "y": 0.410596,
+    "width": 0.12582785,
+    "height": 0.19426048
+  }, {
+    "name": "Pepe",
+    "email": "",
+    "googleProfilePage": "",
+    "x": 0.37913907,
+    "y": 0.35320088,
+    "width": 0.13245034,
+    "height": 0.2075055
+  }, {
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.56456953,
+    "y": 0.25607064,
+    "width": 0.091059625,
+    "height": 0.14128035
+  }, {
+    "name": "Fede",
+    "email": "",
+    "googleProfilePage": "",
+    "x": 0.26324505,
+    "y": 0.2825607,
+    "width": 0.120860904,
+    "height": 0.18763795
+  }]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "IMG_2976.JPG",
+  "description": "Kylie (\"K2\")",
+  "url": "https://lh3.googleusercontent.com/-DnkxJWsOMWk/Rnia_v5UgfI/AAAAAAAAMF8/oiP_dP43K7wwWg6qH-wA3J79j2OHzIG_gCLABGAYYCw/s0-d/IMG_2976.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1182309118",
+    "formatted": "Jun 20, 2007, 3:11:58 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277718",
+    "formatted": "Feb 27, 2019, 2:28:38 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.37916666,
+    "y": 0.14125,
+    "width": 0.21416664,
+    "height": 0.18750001
+  }, {
+    "name": "Kyle Kelly Matarrese",
+    "email": "kylelizabeth@gmail.com",
+    "googleProfilePage": "",
+    "x": 0.29916668,
+    "y": 0.279375,
+    "width": 0.21249998,
+    "height": 0.185
+  }]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "IMG_2963.JPG",
+  "description": "Paul and Corbin (my freshman year roommate)",
+  "url": "https://lh3.googleusercontent.com/-Qnhc_28LWg0/Rniavv5UgUI/AAAAAAAAME8/FeyQDPtP5o0A1DXxlF5OEz7651q5zI_HgCLABGAYYCw/s0-d/IMG_2963.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1182309053",
+    "formatted": "Jun 20, 2007, 3:10:53 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277718",
+    "formatted": "Feb 27, 2019, 2:28:38 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Paul",
+    "email": "",
+    "googleProfilePage": "",
+    "x": 0.1675,
+    "y": 0.27166668,
+    "width": 0.211875,
+    "height": 0.32916668
+  }, {
+    "name": "Corbin",
+    "email": "craiz_d_up@hotmail.com",
+    "googleProfilePage": "",
+    "x": 0.61875,
+    "y": 0.23666666,
+    "width": 0.21937501,
+    "height": 0.33999997
+  }, {
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.364375,
+    "y": 0.2025,
+    "width": 0.1925,
+    "height": 0.29833335
+  }]
+}

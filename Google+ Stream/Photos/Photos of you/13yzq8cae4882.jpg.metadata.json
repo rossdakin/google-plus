@@ -1,0 +1,45 @@
+{
+  "title": "IMG_3634.jpg",
+  "description": "Groovy...",
+  "url": "https://lh3.googleusercontent.com/-pO9ffjk2yPI/SQN7XwnA-KI/AAAAAAAAMDE/tJ2ynSSKlGsKqxa9F1Dpxw65q3b2fpBWACLABGAYYCw/s0-d/IMG_3634.jpg",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1224964959",
+    "formatted": "Oct 25, 2008, 8:02:39 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277411",
+    "formatted": "Feb 27, 2019, 2:23:31 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.47291666,
+    "y": 0.14722222,
+    "width": 0.116666675,
+    "height": 0.18055555
+  }, {
+    "name": "Sarah",
+    "email": "",
+    "googleProfilePage": "",
+    "x": 0.36041668,
+    "y": 0.16111112,
+    "width": 0.11458331,
+    "height": 0.19999999
+  }]
+}

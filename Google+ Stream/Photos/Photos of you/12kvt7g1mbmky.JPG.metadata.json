@@ -1,0 +1,45 @@
+{
+  "title": "IMG_2936.JPG",
+  "description": "Martha, my wonderful house mate.",
+  "url": "https://lh3.googleusercontent.com/-1Jj7CezZLCE/Rniasf5UgRI/AAAAAAAAMGE/GcqnLzB81GoMbs90Y_OQ3R7O_FokvFjQQCLABGAYYCw/s0-d/IMG_2936.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1182309041",
+    "formatted": "Jun 20, 2007, 3:10:41 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277780",
+    "formatted": "Feb 27, 2019, 2:29:40 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.16833334,
+    "y": 0.105625,
+    "width": 0.29333335,
+    "height": 0.25625
+  }, {
+    "name": "Martha Whitmore",
+    "email": "marthawhitmore@gmail.com",
+    "googleProfilePage": "https://plus.google.com/103305936541557486119",
+    "x": 0.52,
+    "y": 0.211875,
+    "width": 0.32500005,
+    "height": 0.28312498
+  }]
+}

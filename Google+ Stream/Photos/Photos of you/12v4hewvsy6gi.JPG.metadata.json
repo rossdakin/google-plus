@@ -1,0 +1,53 @@
+{
+  "title": "IMG_3449.JPG",
+  "description": "Emmeline, Adam, and Ross.",
+  "url": "https://lh3.googleusercontent.com/-TLHwhrijDa0/Rv2gUdD6TTI/AAAAAAAAMBo/WNsYkT9_w-UhCmc68TLkn3akL0hvshIJgCLABGAYYCw/s0-d/IMG_3449.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1191026769",
+    "formatted": "Sep 29, 2007, 12:46:09 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1490503995",
+    "formatted": "Mar 26, 2017, 4:53:15 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Emmeline",
+    "email": "",
+    "googleProfilePage": "",
+    "x": 0.179375,
+    "y": 0.10583334,
+    "width": 0.0925,
+    "height": 0.14333333
+  }, {
+    "name": "Adam",
+    "email": "",
+    "googleProfilePage": "",
+    "x": 0.235625,
+    "y": 0.22166666,
+    "width": 0.15437499,
+    "height": 0.23916668
+  }, {
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.553125,
+    "y": 0.14833333,
+    "width": 0.15187496,
+    "height": 0.24250002
+  }]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "DSCN1529.JPG",
+  "description": "Awesome day.",
+  "url": "https://lh3.googleusercontent.com/-w1VVC3LaKOc/R_HcTBgKB8I/AAAAAAAAMGU/v_L1-HFtcfIpG-uI1hZFJVbkjA8bx-kEwCLABGAYYCw/s0-d/DSCN1529.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1207032907",
+    "formatted": "Apr 1, 2008, 6:55:07 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277533",
+    "formatted": "Feb 27, 2019, 2:25:33 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Jenn",
+    "email": "jzehenni@gmail.com",
+    "googleProfilePage": "",
+    "x": 0.421875,
+    "y": 0.29333332,
+    "width": 0.3875,
+    "height": 0.6
+  }, {
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.0675,
+    "y": 0.055,
+    "width": 0.4375,
+    "height": 0.67833334
+  }]
+}

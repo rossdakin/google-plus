@@ -1,0 +1,77 @@
+{
+  "title": "IMG_3631.jpg",
+  "description": "The Waley House",
+  "url": "https://lh3.googleusercontent.com/-nrY-1bGT21w/SQN7W1hDCzI/AAAAAAAAMEY/gqqGcF7rseAyyRaxq1rVgEpA0-sm2cBqgCLABGAYYCw/s0-d/IMG_3631.jpg",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1224964955",
+    "formatted": "Oct 25, 2008, 8:02:35 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277411",
+    "formatted": "Feb 27, 2019, 2:23:31 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.425,
+    "y": 0.50555557,
+    "width": 0.102083325,
+    "height": 0.16388887
+  }, {
+    "name": "Kyle Dakin",
+    "email": "kyledakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/101361553751233385893",
+    "x": 0.19375,
+    "y": 0.26944444,
+    "width": 0.08958334,
+    "height": 0.15833333
+  }, {
+    "name": "Don",
+    "email": "sierra.dakin@att.net",
+    "googleProfilePage": "",
+    "x": 0.34583333,
+    "y": 0.5388889,
+    "width": 0.099999994,
+    "height": 0.16944444
+  }, {
+    "name": "Tanner",
+    "email": "",
+    "googleProfilePage": "",
+    "x": 0.6645833,
+    "y": 0.14444445,
+    "width": 0.102083325,
+    "height": 0.16388889
+  }, {
+    "name": "Sarah",
+    "email": "",
+    "googleProfilePage": "",
+    "x": 0.5520833,
+    "y": 0.23333333,
+    "width": 0.08333337,
+    "height": 0.15555556
+  }, {
+    "name": "Meryl Dakin",
+    "email": "meryldakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/111992294725049706781",
+    "x": 0.62083334,
+    "y": 0.24444444,
+    "width": 0.087499976,
+    "height": 0.13888888
+  }]
+}

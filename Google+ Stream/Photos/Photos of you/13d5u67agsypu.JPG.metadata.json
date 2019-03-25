@@ -1,0 +1,45 @@
+{
+  "title": "DSCN1494.JPG",
+  "description": "Role reversal.",
+  "url": "https://lh3.googleusercontent.com/-_lKqJ9XotuM/R-fsCxgKBsI/AAAAAAAAL-Y/oZW0sLS34ws5OaZ4i-dZDND1UpQ4C8dOQCLABGAYYCw/s0-d/DSCN1494.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1206381578",
+    "formatted": "Mar 24, 2008, 5:59:38 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277533",
+    "formatted": "Feb 27, 2019, 2:25:33 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Meryl Dakin",
+    "email": "meryldakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/111992294725049706781",
+    "x": 0.24083333,
+    "y": 0.390625,
+    "width": 0.17916666,
+    "height": 0.15625
+  }, {
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.5875,
+    "y": 0.335,
+    "width": 0.17583334,
+    "height": 0.15312499
+  }]
+}

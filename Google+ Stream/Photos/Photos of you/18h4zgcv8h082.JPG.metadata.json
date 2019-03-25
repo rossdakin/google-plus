@@ -1,0 +1,61 @@
+{
+  "title": "IMG_0350.JPG",
+  "description": "Easter 2005",
+  "url": "https://lh3.googleusercontent.com/-mvZzRoZh1Fo/UT2kd1Luv2I/AAAAAAAATDk/mugM0Td33yU286lRaqF58kKtyIQFkDgWgCLABGAYYCw/s0-d/IMG_0350.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1362994295",
+    "formatted": "Mar 11, 2013, 9:31:35 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277903",
+    "formatted": "Feb 27, 2019, 2:31:43 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.3325,
+    "y": 0.17875,
+    "width": 0.15583333,
+    "height": 0.13625
+  }, {
+    "name": "Meryl Dakin",
+    "email": "meryldakin@gmail.com",
+    "googleProfilePage": "",
+    "x": 0.21583334,
+    "y": 0.46875,
+    "width": 0.17333332,
+    "height": 0.15125
+  }, {
+    "name": "Kyle Dakin",
+    "email": "kdakin@att.net",
+    "googleProfilePage": "",
+    "x": 0.6475,
+    "y": 0.18875,
+    "width": 0.14000005,
+    "height": 0.12187499
+  }, {
+    "name": "Don Dakin",
+    "email": "dondakin@gmail.com",
+    "googleProfilePage": "",
+    "x": 0.48333332,
+    "y": 0.416875,
+    "width": 0.1866667,
+    "height": 0.16250002
+  }]
+}

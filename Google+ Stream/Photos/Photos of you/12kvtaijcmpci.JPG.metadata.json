@@ -1,0 +1,45 @@
+{
+  "title": "IMG_2951.JPG",
+  "description": "Molly, the first person I met at SCU (in the parking lot during orientation)",
+  "url": "https://lh3.googleusercontent.com/-DN3oa71SGDE/Rnia6f5UgdI/AAAAAAAAMFk/SoTGMBGJtT0_L11IyWd-kTvcRAVg0nk2gCLABGAYYCw/s0-d/IMG_2951.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1182309097",
+    "formatted": "Jun 20, 2007, 3:11:37 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277718",
+    "formatted": "Feb 27, 2019, 2:28:38 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Molly",
+    "email": "",
+    "googleProfilePage": "",
+    "x": 0.259375,
+    "y": 0.3775,
+    "width": 0.23624998,
+    "height": 0.36666667
+  }, {
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.403125,
+    "y": 0.1525,
+    "width": 0.260625,
+    "height": 0.40416667
+  }]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "DSCN2292.JPG",
+  "description": "The Dakins",
+  "url": "https://lh3.googleusercontent.com/-MAks01uSmuU/SghLYSi9TyI/AAAAAAAATUo/7gWaX7gGaLcEidLQMboHifqZAj7v30qtgCLABGAYYCw/s0-d/DSCN2292.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1242057569",
+    "formatted": "May 11, 2009, 3:59:29 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1531917958",
+    "formatted": "Jul 18, 2018, 12:45:58 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Meryl Dakin",
+    "email": "meryldakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/111992294725049706781",
+    "x": 0.4775,
+    "y": 0.586875,
+    "width": 0.051666647,
+    "height": 0.044999957
+  }, {
+    "name": "Don",
+    "email": "sierra.dakin@att.net",
+    "googleProfilePage": "",
+    "x": 0.38333333,
+    "y": 0.559375,
+    "width": 0.064166665,
+    "height": 0.05562502
+  }, {
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.5416667,
+    "y": 0.5525,
+    "width": 0.0625,
+    "height": 0.054374993
+  }, {
+    "name": "Kyle Dakin",
+    "email": "kyledakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/101361553751233385893",
+    "x": 0.6358333,
+    "y": 0.600625,
+    "width": 0.06333333,
+    "height": 0.055000007
+  }]
+}

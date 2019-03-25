@@ -1,0 +1,61 @@
+{
+  "title": "DSCN1459.JPG",
+  "description": "The end of a perfect day.",
+  "url": "https://lh3.googleusercontent.com/-CPY1BDDa7Ks/R9Y2dx5DVhI/AAAAAAAAMBI/t_-jg8bg3wAEMgyWwom_O2SYAVudPaKlQCLABGAYYCw/s0-d/DSCN1459.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1205220982",
+    "formatted": "Mar 11, 2008, 7:36:22 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277595",
+    "formatted": "Feb 27, 2019, 2:26:35 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.291875,
+    "y": 0.2875,
+    "width": 0.114374995,
+    "height": 0.17666668
+  }, {
+    "name": "David",
+    "email": "dclarke@liveops.com",
+    "googleProfilePage": "",
+    "x": 0.584375,
+    "y": 0.3425,
+    "width": 0.10124999,
+    "height": 0.1575
+  }, {
+    "name": "Jenn",
+    "email": "jzehenni@gmail.com",
+    "googleProfilePage": "",
+    "x": 0.431875,
+    "y": 0.26083332,
+    "width": 0.106875,
+    "height": 0.16500002
+  }],
+  "comments": [{
+    "author": "Ross Dakin",
+    "comment": "Is that guy yawning, singing, or about to sneeze?",
+    "commentTime": {
+      "timestamp": "1205223421",
+      "formatted": "Mar 11, 2008, 8:17:01 AM UTC"
+    }
+  }]
+}

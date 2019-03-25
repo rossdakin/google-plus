@@ -1,0 +1,61 @@
+{
+  "title": "IMG_2975.JPG",
+  "description": "Mission Gardens",
+  "url": "https://lh3.googleusercontent.com/-t6spqpwKccs/RnibCv5UggI/AAAAAAAAMFg/pvom4TUAnao_AfEmK_bIYx3EYmmLpuC6QCLABGAYYCw/s0-d/IMG_2975.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1182309130",
+    "formatted": "Jun 20, 2007, 3:12:10 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277718",
+    "formatted": "Feb 27, 2019, 2:28:38 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Kyle Dakin",
+    "email": "kyledakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/101361553751233385893",
+    "x": 0.433125,
+    "y": 0.2775,
+    "width": 0.07000002,
+    "height": 0.10833332
+  }, {
+    "name": "Don",
+    "email": "sierra.dakin@att.net",
+    "googleProfilePage": "",
+    "x": 0.3025,
+    "y": 0.1975,
+    "width": 0.07374999,
+    "height": 0.11416666
+  }, {
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.526875,
+    "y": 0.175,
+    "width": 0.07687497,
+    "height": 0.11916666
+  }, {
+    "name": "Meryl Dakin",
+    "email": "meryldakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/111992294725049706781",
+    "x": 0.651875,
+    "y": 0.25166667,
+    "width": 0.06999999,
+    "height": 0.10833335
+  }]
+}

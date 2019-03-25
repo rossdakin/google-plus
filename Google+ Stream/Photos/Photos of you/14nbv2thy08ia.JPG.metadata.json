@@ -1,0 +1,61 @@
+{
+  "title": "DSCN0029.JPG",
+  "description": "In front of Castello di Amorosa.",
+  "url": "https://lh3.googleusercontent.com/-KlihflOlCp4/Sj-aYxTowRI/AAAAAAAAL_A/NP8xEQrapuE6JHjRi_E0l82W7-38y6i5QCLABGAYYCw/s0-d/DSCN0029.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1245682275",
+    "formatted": "Jun 22, 2009, 2:51:15 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1527557491",
+    "formatted": "May 29, 2018, 1:31:31 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Meryl Dakin",
+    "email": "meryldakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/111992294725049706781",
+    "x": 0.535625,
+    "y": 0.19416666,
+    "width": 0.104375005,
+    "height": 0.1625
+  }, {
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.68,
+    "y": 0.15083334,
+    "width": 0.10187501,
+    "height": 0.1575
+  }, {
+    "name": "Meryl Dakin",
+    "email": "meryldakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/111992294725049706781",
+    "x": 0.415625,
+    "y": 0.25083333,
+    "width": 0.108125,
+    "height": 0.16749999
+  }, {
+    "name": "Don",
+    "email": "sierra.dakin@att.net",
+    "googleProfilePage": "",
+    "x": 0.234375,
+    "y": 0.07833333,
+    "width": 0.1275,
+    "height": 0.1975
+  }]
+}

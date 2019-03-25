@@ -1,0 +1,37 @@
+{
+  "title": "IMG_6924.JPG",
+  "description": "",
+  "url": "https://lh3.googleusercontent.com/-lwMNn_06fvg/SOFf7bmERoI/AAAAAAAAMB0/yFpgqsAA7PkIHdAAay9GEchs7NNrcJWAwCLABGAYYCw/s0-d/IMG_6924.JPG",
+  "imageViews": "106",
+  "creationTime": {
+    "timestamp": "1222729709",
+    "formatted": "Sep 29, 2008, 11:08:29 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1490503995",
+    "formatted": "Mar 26, 2017, 4:53:15 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.1175,
+    "y": 0.34166667,
+    "width": 0.07,
+    "height": 0.10833332
+  }]
+}

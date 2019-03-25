@@ -1,0 +1,61 @@
+{
+  "title": "photo.jpg",
+  "description": "Tasting at V. Sattui.",
+  "url": "https://lh3.googleusercontent.com/-TIyxCjoJ1Es/Sj_xmmPEuDI/AAAAAAAATUo/fu2hjyjF2nErA20AlC_CxY4DrZ9vlVregCLABGAYYCw/s0-d/photo.jpg",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1245704602",
+    "formatted": "Jun 22, 2009, 9:03:22 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1531571757",
+    "formatted": "Jul 14, 2018, 12:35:57 PM UTC"
+  },
+  "geoData": {
+    "latitude": 38.48866653442383,
+    "longitude": -122.44850158691406,
+    "altitude": "NaN",
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 38.48866653442383,
+    "longitude": -122.44850158691406,
+    "altitude": "NaN",
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Kyle Dakin",
+    "email": "kyledakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/101361553751233385893",
+    "x": 0.14,
+    "y": 0.36666667,
+    "width": 0.14,
+    "height": 0.21666664
+  }, {
+    "name": "Don",
+    "email": "sierra.dakin@att.net",
+    "googleProfilePage": "",
+    "x": 0.525,
+    "y": 0.29333332,
+    "width": 0.125,
+    "height": 0.19333336
+  }, {
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.32375,
+    "y": 0.25333333,
+    "width": 0.13375002,
+    "height": 0.20833334
+  }, {
+    "name": "Meryl Dakin",
+    "email": "meryldakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/111992294725049706781",
+    "x": 0.725,
+    "y": 0.36333334,
+    "width": 0.14249998,
+    "height": 0.22166663
+  }]
+}

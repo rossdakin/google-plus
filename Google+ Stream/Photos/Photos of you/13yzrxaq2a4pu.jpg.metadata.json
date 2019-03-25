@@ -1,0 +1,45 @@
+{
+  "title": "IMG_3597.jpg",
+  "description": "Dancin!",
+  "url": "https://lh3.googleusercontent.com/-OzDciQhrkgk/SQN_tzmzAGI/AAAAAAAAMC4/swR0BQ5jMpYtXJv-WaWl35n5Dzbc-fkRQCLABGAYYCw/s0-d/IMG_3597.jpg",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1224966071",
+    "formatted": "Oct 25, 2008, 8:21:11 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277472",
+    "formatted": "Feb 27, 2019, 2:24:32 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.46388888,
+    "y": 0.28958333,
+    "width": 0.111111104,
+    "height": 0.099999994
+  }, {
+    "name": "Kyle Dakin",
+    "email": "kyledakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/101361553751233385893",
+    "x": 0.16388889,
+    "y": 0.34583333,
+    "width": 0.13611113,
+    "height": 0.12291667
+  }]
+}

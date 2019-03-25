@@ -1,0 +1,53 @@
+{
+  "title": "IMG_6913.JPG",
+  "description": "",
+  "url": "https://lh3.googleusercontent.com/-_0aFCu9xpjs/SOFfxo2yPxI/AAAAAAAAMCA/dsyYGmL-iMMrMz8Uqk-bONJKqYGUXGhSgCLABGAYYCw/s0-d/IMG_6913.JPG",
+  "imageViews": "112",
+  "creationTime": {
+    "timestamp": "1222729670",
+    "formatted": "Sep 29, 2008, 11:07:50 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1527870385",
+    "formatted": "Jun 1, 2018, 4:26:25 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Beth",
+    "email": "eab@eabi.org",
+    "googleProfilePage": "",
+    "x": 0.178125,
+    "y": 0.45833334,
+    "width": 0.134375,
+    "height": 0.20916668
+  }, {
+    "name": "Jim",
+    "email": "jchow@liveops.com",
+    "googleProfilePage": "",
+    "x": 0.485,
+    "y": 0.3325,
+    "width": 0.11500001,
+    "height": 0.17916664
+  }, {
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.7575,
+    "y": 0.47,
+    "width": 0.067499995,
+    "height": 0.10916665
+  }]
+}

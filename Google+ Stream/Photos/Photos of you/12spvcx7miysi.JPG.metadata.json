@@ -1,0 +1,53 @@
+{
+  "title": "IMG_3026.JPG",
+  "description": "The Kids",
+  "url": "https://lh3.googleusercontent.com/-aasVelWSYdE/Rt5gD8Qq4qI/AAAAAAAATVI/fEQDE_Ql5QABb4wVRA1fgY2INu3I34wOwCLABGAYYCw/s0-d/IMG_3026.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1188978703",
+    "formatted": "Sep 5, 2007, 7:51:43 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1552306023",
+    "formatted": "Mar 11, 2019, 12:07:03 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Meryl Dakin",
+    "email": "meryldakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/111992294725049706781",
+    "x": 0.4125,
+    "y": 0.48055556,
+    "width": 0.07916668,
+    "height": 0.12499997
+  }, {
+    "name": "Trevor Nichol",
+    "email": "trevorjn@gmail.com",
+    "googleProfilePage": "https://plus.google.com/100409553995347001604",
+    "x": 0.58958334,
+    "y": 0.43888888,
+    "width": 0.087499976,
+    "height": 0.13888893
+  }, {
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.475,
+    "y": 0.40555555,
+    "width": 0.087500006,
+    "height": 0.13611114
+  }]
+}

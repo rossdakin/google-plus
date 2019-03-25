@@ -1,0 +1,45 @@
+{
+  "title": "DSC01246.JPG",
+  "description": "",
+  "url": "https://lh3.googleusercontent.com/-X47IKYmJps0/R84c_UIMXOI/AAAAAAAAMA4/rmGhBWUTbOscC8AcyphGic5UkYcOxqTRwCLABGAYYCw/s0-d/DSC01246.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1204690173",
+    "formatted": "Mar 5, 2008, 4:09:33 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277595",
+    "formatted": "Feb 27, 2019, 2:26:35 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Thaisa",
+    "email": "thatinhaju@hotmail.com",
+    "googleProfilePage": "",
+    "x": 0.2,
+    "y": 0.3546875,
+    "width": 0.20625,
+    "height": 0.1796875
+  }, {
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.36875,
+    "y": 0.21875,
+    "width": 0.21874997,
+    "height": 0.19062501
+  }]
+}

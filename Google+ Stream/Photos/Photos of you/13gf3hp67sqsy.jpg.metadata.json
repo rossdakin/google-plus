@@ -1,0 +1,77 @@
+{
+  "title": "n1218542517_30011965_6268.jpg",
+  "description": "",
+  "url": "https://lh3.googleusercontent.com/-MWfmzae-azc/SBI7CgZxhbI/AAAAAAAAMAg/dvW8ZgHTUlkqGlJx__RrWp6X_8mTNOq6ACLABGAYYCw/s0-d/n1218542517_30011965_6268.jpg",
+  "imageViews": "108",
+  "creationTime": {
+    "timestamp": "1209154314",
+    "formatted": "Apr 25, 2008, 8:11:54 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1527870385",
+    "formatted": "Jun 1, 2018, 4:26:25 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Marie-Claude Lavoie",
+    "email": "marieclavoie@gmail.com",
+    "googleProfilePage": "https://plus.google.com/115432154085166151163",
+    "x": 0.08278146,
+    "y": 0.37306842,
+    "width": 0.1307947,
+    "height": 0.200883
+  }, {
+    "name": "Damian Lobalzo",
+    "email": "dlobalzo@gmail.com",
+    "googleProfilePage": "https://plus.google.com/111104672182303394867",
+    "x": 0.3245033,
+    "y": 0.5651214,
+    "width": 0.15728477,
+    "height": 0.24282563
+  }, {
+    "name": "Fede",
+    "email": "",
+    "googleProfilePage": "",
+    "x": 0.294702,
+    "y": 0.26048565,
+    "width": 0.091059595,
+    "height": 0.14128035
+  }, {
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.49834436,
+    "y": 0.26490065,
+    "width": 0.120860934,
+    "height": 0.18763798
+  }, {
+    "name": "Tamara",
+    "email": "",
+    "googleProfilePage": "",
+    "x": 0.19205298,
+    "y": 0.62693155,
+    "width": 0.1639073,
+    "height": 0.25386316
+  }, {
+    "name": "Pepe",
+    "email": "",
+    "googleProfilePage": "",
+    "x": 0.60264903,
+    "y": 0.39072847,
+    "width": 0.12913907,
+    "height": 0.19867551
+  }]
+}

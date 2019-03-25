@@ -1,0 +1,37 @@
+{
+  "title": "M_ross5.jpg",
+  "description": "",
+  "url": "https://lh3.googleusercontent.com/-GXHPAFvzf_0/Rm5cB_5UfvI/AAAAAAAAL9Y/T2ksURcOebs81VedxJCdhCwg42P3X-Q9QCLABGAYYCw/s0-d/M_ross5.jpg",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1181637639",
+    "formatted": "Jun 12, 2007, 8:40:39 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1490503995",
+    "formatted": "Mar 26, 2017, 4:53:15 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.03041825,
+    "y": 0.275,
+    "width": 0.4524715,
+    "height": 0.345
+  }]
+}

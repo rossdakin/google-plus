@@ -1,0 +1,53 @@
+{
+  "title": "IMG_2996.JPG",
+  "description": "The Morning After",
+  "url": "https://lh3.googleusercontent.com/-1OFS6imkcas/RnibXf5UgpI/AAAAAAAAMFA/H2n6jk8KAW4FGiGvl79f0Abt1LKuRB7QwCLABGAYYCw/s0-d/IMG_2996.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1182309213",
+    "formatted": "Jun 20, 2007, 3:13:33 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277718",
+    "formatted": "Feb 27, 2019, 2:28:38 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.52875,
+    "y": 0.5416667,
+    "width": 0.05250001,
+    "height": 0.080833316
+  }, {
+    "name": "Kyle Dakin",
+    "email": "kyledakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/101361553751233385893",
+    "x": 0.45625,
+    "y": 0.36416668,
+    "width": 0.03562498,
+    "height": 0.05583331
+  }, {
+    "name": "Meryl Dakin",
+    "email": "meryldakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/111992294725049706781",
+    "x": 0.32125,
+    "y": 0.43083334,
+    "width": 0.05375001,
+    "height": 0.08333331
+  }]
+}

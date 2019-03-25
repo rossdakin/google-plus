@@ -1,0 +1,37 @@
+{
+  "title": "DSCN0843.JPG",
+  "description": "Victory at Vernal.",
+  "url": "https://lh3.googleusercontent.com/-VV5Xhmozc7U/RyY84T452CI/AAAAAAAATVE/a1tEqLzBORk461L0_hNb4trnRfE891CcACLABGAYYCw/s0-d/DSCN0843.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1193688288",
+    "formatted": "Oct 29, 2007, 8:04:48 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277657",
+    "formatted": "Feb 27, 2019, 2:27:37 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.39916667,
+    "y": 0.38125,
+    "width": 0.080833316,
+    "height": 0.06999999
+  }]
+}

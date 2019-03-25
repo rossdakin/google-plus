@@ -1,0 +1,45 @@
+{
+  "title": "IMG_3602.jpg",
+  "description": "Cheeeeese...",
+  "url": "https://lh3.googleusercontent.com/-nuOzvWM2JbE/SQN_vYQX8uI/AAAAAAAAMEQ/hpPqfcwgEW8IVTbRRAdIdfj5G3Q63DPbgCLABGAYYCw/s0-d/IMG_3602.jpg",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1224966077",
+    "formatted": "Oct 25, 2008, 8:21:17 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277472",
+    "formatted": "Feb 27, 2019, 2:24:32 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.41458333,
+    "y": 0.0,
+    "width": 0.47500002,
+    "height": 0.7361111
+  }, {
+    "name": "Jenn",
+    "email": "jzehenni@gmail.com",
+    "googleProfilePage": "",
+    "x": 0.13125,
+    "y": 0.013888889,
+    "width": 0.4104167,
+    "height": 0.79444444
+  }]
+}

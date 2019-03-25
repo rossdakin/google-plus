@@ -1,0 +1,45 @@
+{
+  "title": "IMG_2964.JPG",
+  "description": "Scott, my roommate last year.",
+  "url": "https://lh3.googleusercontent.com/-lXKp_Bt4GSs/Rniauf5UgTI/AAAAAAAAMFw/GfvRYvv35Lw3qrz8Yy3nLVS66PXR8BcuACLABGAYYCw/s0-d/IMG_2964.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1182309049",
+    "formatted": "Jun 20, 2007, 3:10:49 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277718",
+    "formatted": "Feb 27, 2019, 2:28:38 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.4725,
+    "y": 0.266875,
+    "width": 0.27833334,
+    "height": 0.24312499
+  }, {
+    "name": "Scott Klausner",
+    "email": "smklausner@gmail.com",
+    "googleProfilePage": "https://plus.google.com/100360292352674869890",
+    "x": 0.24083333,
+    "y": 0.241875,
+    "width": 0.2525,
+    "height": 0.22
+  }]
+}

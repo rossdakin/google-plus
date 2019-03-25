@@ -1,0 +1,45 @@
+{
+  "title": "IMG_2451.JPG",
+  "description": "Kristen and Ross",
+  "url": "https://lh3.googleusercontent.com/-gYTCFDgWpic/Rl0v4-RWaoI/AAAAAAAAMC0/-HZrXidIBVg_D9NvQ7FuUi3q-PB5XaPgQCLABGAYYCw/s0-d/IMG_2451.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1180512227",
+    "formatted": "May 30, 2007, 8:03:47 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277780",
+    "formatted": "Feb 27, 2019, 2:29:40 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Kristen",
+    "email": "kimorse@scu.edu",
+    "googleProfilePage": "",
+    "x": 0.50666666,
+    "y": 0.155625,
+    "width": 0.1591667,
+    "height": 0.13875
+  }, {
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.595,
+    "y": 0.0825,
+    "width": 0.16749996,
+    "height": 0.146875
+  }]
+}

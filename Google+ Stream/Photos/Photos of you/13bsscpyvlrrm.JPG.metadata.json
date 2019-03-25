@@ -1,0 +1,37 @@
+{
+  "title": "DSCN1451.JPG",
+  "description": "View from the summit.",
+  "url": "https://lh3.googleusercontent.com/-gP4jyKRADtg/R9Y5VR5DVtI/AAAAAAAATUw/GJ4dDZ6FvMcizG3AG27HynzqQ1HTIYHhQCLABGAYYCw/s0-d/DSCN1451.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1205221717",
+    "formatted": "Mar 11, 2008, 7:48:37 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277595",
+    "formatted": "Feb 27, 2019, 2:26:35 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.5,
+    "y": 0.33833334,
+    "width": 0.07062501,
+    "height": 0.10916665
+  }]
+}

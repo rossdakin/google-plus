@@ -1,0 +1,53 @@
+{
+  "title": "IMG_3020.JPG",
+  "description": "Meryl, Ross, Trevor",
+  "url": "https://lh3.googleusercontent.com/-wmGF1wdhs_s/Rt5gDMQq4mI/AAAAAAAATVI/FLSuznx2D54AIKVWfjQJcij8RpM0ykOoQCLABGAYYCw/s0-d/IMG_3020.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1188978700",
+    "formatted": "Sep 5, 2007, 7:51:40 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1531571757",
+    "formatted": "Jul 14, 2018, 12:35:57 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.39375,
+    "y": 0.15,
+    "width": 0.13958335,
+    "height": 0.21666667
+  }, {
+    "name": "Meryl Dakin",
+    "email": "meryldakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/111992294725049706781",
+    "x": 0.17083333,
+    "y": 0.3,
+    "width": 0.13541667,
+    "height": 0.20833331
+  }, {
+    "name": "Trevor Nichol",
+    "email": "trevorjn@gmail.com",
+    "googleProfilePage": "https://plus.google.com/100409553995347001604",
+    "x": 0.6791667,
+    "y": 0.29444444,
+    "width": 0.118749976,
+    "height": 0.18333334
+  }]
+}

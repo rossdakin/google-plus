@@ -1,0 +1,37 @@
+{
+  "title": "IMG_2956.JPG",
+  "description": "Thugs",
+  "url": "https://lh3.googleusercontent.com/-ERartLOEjyA/Rnia1f5UgZI/AAAAAAAAMGA/GrMK6qm1ySgs1bdVoM793f60N1BYxDlKACLABGAYYCw/s0-d/IMG_2956.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1182309077",
+    "formatted": "Jun 20, 2007, 3:11:17 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277718",
+    "formatted": "Feb 27, 2019, 2:28:38 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.3175,
+    "y": 0.055625,
+    "width": 0.19833332,
+    "height": 0.178125
+  }]
+}

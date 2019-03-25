@@ -1,0 +1,45 @@
+{
+  "title": "IMG_2944.JPG",
+  "description": "Ms. Maia Earle",
+  "url": "https://lh3.googleusercontent.com/-irFvZfegOT4/Rnianf5UgMI/AAAAAAAAMF0/U0ALAY_mzl8GVR3vI7TyRy070gYcCdW5wCLABGAYYCw/s0-d/IMG_2944.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1182309021",
+    "formatted": "Jun 20, 2007, 3:10:21 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277718",
+    "formatted": "Feb 27, 2019, 2:28:38 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.22875,
+    "y": 0.1,
+    "width": 0.289375,
+    "height": 0.44833335
+  }, {
+    "name": "Maia Earle",
+    "email": "maiaearle@gmail.com",
+    "googleProfilePage": "https://plus.google.com/103148362779242838818",
+    "x": 0.42375,
+    "y": 0.25666666,
+    "width": 0.288125,
+    "height": 0.44666666
+  }]
+}

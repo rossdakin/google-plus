@@ -1,0 +1,45 @@
+{
+  "title": "IMG_2957.JPG",
+  "description": "Mr. Ian Tan",
+  "url": "https://lh3.googleusercontent.com/-z0uhu-6-SSo/Rniaz_5UgYI/AAAAAAAAMGQ/ao8-1Q16lgwijZh2eLu5zs0TIuqRiwPHACLABGAYYCw/s0-d/IMG_2957.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1182309071",
+    "formatted": "Jun 20, 2007, 3:11:11 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277718",
+    "formatted": "Feb 27, 2019, 2:28:38 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.27625,
+    "y": 0.1625,
+    "width": 0.209375,
+    "height": 0.3241667
+  }, {
+    "name": "Ian",
+    "email": "ISTan@scu.edu",
+    "googleProfilePage": "",
+    "x": 0.51375,
+    "y": 0.34,
+    "width": 0.19312501,
+    "height": 0.29916665
+  }]
+}

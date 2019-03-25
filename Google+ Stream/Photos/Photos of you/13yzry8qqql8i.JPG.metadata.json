@@ -1,0 +1,61 @@
+{
+  "title": "IMG_3573.JPG",
+  "description": "I like this picture.",
+  "url": "https://lh3.googleusercontent.com/-QBnQ5zklB7o/SQN_yHeF8AI/AAAAAAAAMDI/eeyYirLZlb4xaknW-AedjwA2x77O--CSgCLABGAYYCw/s0-d/IMG_3573.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1224966088",
+    "formatted": "Oct 25, 2008, 8:21:28 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277472",
+    "formatted": "Feb 27, 2019, 2:24:32 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Kyle Dakin",
+    "email": "kyledakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/101361553751233385893",
+    "x": 0.21666667,
+    "y": 0.22222222,
+    "width": 0.116666675,
+    "height": 0.18055557
+  }, {
+    "name": "Meryl Dakin",
+    "email": "meryldakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/111992294725049706781",
+    "x": 0.35833332,
+    "y": 0.14722222,
+    "width": 0.116666675,
+    "height": 0.18055555
+  }, {
+    "name": "Jenn",
+    "email": "jzehenni@gmail.com",
+    "googleProfilePage": "",
+    "x": 0.69375,
+    "y": 0.1,
+    "width": 0.13333333,
+    "height": 0.20555556
+  }, {
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.5104167,
+    "y": 0.05277778,
+    "width": 0.118749976,
+    "height": 0.18611111
+  }]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "DSCN1495.JPG",
+  "description": "Stompin\u0027 the grapes.",
+  "url": "https://lh3.googleusercontent.com/-V9PUxTBgo-k/R-fsDhgKBtI/AAAAAAAAL-g/aCFSMfhc-XUN_GKEkFDqcVMGDnlMh9KQQCLABGAYYCw/s0-d/DSCN1495.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1206381581",
+    "formatted": "Mar 24, 2008, 5:59:41 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277533",
+    "formatted": "Feb 27, 2019, 2:25:33 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.2575,
+    "y": 0.416875,
+    "width": 0.16500002,
+    "height": 0.14437497
+  }, {
+    "name": "Meryl Dakin",
+    "email": "meryldakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/111992294725049706781",
+    "x": 0.575,
+    "y": 0.3925,
+    "width": 0.16666669,
+    "height": 0.14562497
+  }]
+}

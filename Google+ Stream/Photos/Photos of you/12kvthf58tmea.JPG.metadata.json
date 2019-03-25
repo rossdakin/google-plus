@@ -1,0 +1,53 @@
+{
+  "title": "IMG_2987.JPG",
+  "description": "Palace of Fine Arts",
+  "url": "https://lh3.googleusercontent.com/-XrwultpvDFc/RnibZ_5UgqI/AAAAAAAATVI/4uITaEACndEcFs3P_CF6DMrIyCA1L4R1gCLABGAYYCw/s0-d/IMG_2987.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1182309223",
+    "formatted": "Jun 20, 2007, 3:13:43 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1531917958",
+    "formatted": "Jul 18, 2018, 12:45:58 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.63916665,
+    "y": 0.404375,
+    "width": 0.0866667,
+    "height": 0.07500002
+  }, {
+    "name": "Don",
+    "email": "sierra.dakin@att.net",
+    "googleProfilePage": "",
+    "x": 0.495,
+    "y": 0.423125,
+    "width": 0.08583331,
+    "height": 0.07499999
+  }, {
+    "name": "Kyle Dakin",
+    "email": "kyledakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/101361553751233385893",
+    "x": 0.36,
+    "y": 0.47625,
+    "width": 0.07666665,
+    "height": 0.06687498
+  }]
+}

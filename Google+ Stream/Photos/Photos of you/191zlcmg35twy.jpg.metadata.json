@@ -1,0 +1,53 @@
+{
+  "title": "courage.jpg",
+  "description": "My head is cold in honor of my aunt, Blythe Harris.\n\nPlease help raise breast cancer awareness this month is whichever way you choose.",
+  "url": "https://lh3.googleusercontent.com/-gpDn84Y4xPY/Ukx41EFiqbI/AAAAAAAAPKM/Ui6gor6jr4MP8pIm7YGzuAv6iF51kY1cQCLABGAYYCw/s0-d/courage.jpg",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1380743380",
+    "formatted": "Oct 2, 2013, 7:49:40 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1549447233",
+    "formatted": "Feb 6, 2019, 10:00:33 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Brenton Nichol",
+    "email": "brnichol@gmail.com",
+    "googleProfilePage": "",
+    "x": 0.02125,
+    "y": 0.5196998,
+    "width": 0.086875,
+    "height": 0.30393994
+  }, {
+    "name": "Trevor Nichol",
+    "email": "trevorjn@gmail.com",
+    "googleProfilePage": "https://plus.google.com/100409553995347001604",
+    "x": 0.52375,
+    "y": 0.5553471,
+    "width": 0.07062501,
+    "height": 0.24577862
+  }, {
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.389375,
+    "y": 0.5121951,
+    "width": 0.087500006,
+    "height": 0.30581617
+  }]
+}

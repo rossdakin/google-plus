@@ -1,0 +1,45 @@
+{
+  "title": "IMG_2978.JPG",
+  "description": "Me and Cuz",
+  "url": "https://lh3.googleusercontent.com/-OUezEJMBYGM/Rnia8v5UgeI/AAAAAAAAMFo/fltparHjPF8jgBA90w3qATEybUXS-D88QCLABGAYYCw/s0-d/IMG_2978.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1182309106",
+    "formatted": "Jun 20, 2007, 3:11:46 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277718",
+    "formatted": "Feb 27, 2019, 2:28:38 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Trevor Nichol",
+    "email": "trevorjn@gmail.com",
+    "googleProfilePage": "https://plus.google.com/100409553995347001604",
+    "x": 0.3875,
+    "y": 0.448125,
+    "width": 0.15833336,
+    "height": 0.13749999
+  }, {
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.45083332,
+    "y": 0.1125,
+    "width": 0.16250002,
+    "height": 0.14187501
+  }]
+}

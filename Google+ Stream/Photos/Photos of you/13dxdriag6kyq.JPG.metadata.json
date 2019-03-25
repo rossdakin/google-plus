@@ -1,0 +1,37 @@
+{
+  "title": "DSCN1521.JPG",
+  "description": "Helmet hair.",
+  "url": "https://lh3.googleusercontent.com/-1SPMYcYd6rs/R_HcQRgKB6I/AAAAAAAAMGg/XMmpRwfi5uYw6zoE7qKybtWnq7EJq8CPACLABGAYYCw/s0-d/DSCN1521.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1207032897",
+    "formatted": "Apr 1, 2008, 6:54:57 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277533",
+    "formatted": "Feb 27, 2019, 2:25:33 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.365,
+    "y": 0.179375,
+    "width": 0.2916667,
+    "height": 0.25375
+  }]
+}

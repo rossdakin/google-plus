@@ -1,0 +1,45 @@
+{
+  "title": "image (1).jpeg",
+  "description": "",
+  "url": "https://lh3.googleusercontent.com/-byS8G-TI0Y8/UrD5boUz_lI/AAAAAAAMd7s/Ho4rgXXCGtQAzLV1-hHIX1UwSVjrxMGlACLABGAYYCw/s0-d/image%2B%25281%2529.jpeg",
+  "imageViews": "172",
+  "creationTime": {
+    "timestamp": "1387329902",
+    "formatted": "Dec 18, 2013, 1:25:02 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1552968407",
+    "formatted": "Mar 19, 2019, 4:06:47 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.243125,
+    "y": 0.3325,
+    "width": 0.160625,
+    "height": 0.24999997
+  }, {
+    "name": "Jeff Keltner",
+    "email": "jkeltner@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+JeffKeltner",
+    "x": 0.69875,
+    "y": 0.43,
+    "width": 0.24562496,
+    "height": 0.38166666
+  }]
+}

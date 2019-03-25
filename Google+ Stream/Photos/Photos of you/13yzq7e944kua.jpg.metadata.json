@@ -1,0 +1,77 @@
+{
+  "title": "IMG_3622.jpg",
+  "description": "Our three teams.",
+  "url": "https://lh3.googleusercontent.com/-DjqBXLArTkc/SQN7TcnGKoI/AAAAAAAAMDM/T6pNm95mNJ0itpi7DO8yFwq8OY2y-DgTwCLABGAYYCw/s0-d/IMG_3622.jpg",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1224964941",
+    "formatted": "Oct 25, 2008, 8:02:21 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277411",
+    "formatted": "Feb 27, 2019, 2:23:31 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Kyle Dakin",
+    "email": "kyledakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/101361553751233385893",
+    "x": 0.45208332,
+    "y": 0.62222224,
+    "width": 0.118750006,
+    "height": 0.18333334
+  }, {
+    "name": "Sarah",
+    "email": "",
+    "googleProfilePage": "",
+    "x": 0.16875,
+    "y": 0.56666666,
+    "width": 0.122916654,
+    "height": 0.19166666
+  }, {
+    "name": "Meryl Dakin",
+    "email": "meryldakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/111992294725049706781",
+    "x": 0.73541665,
+    "y": 0.5888889,
+    "width": 0.125,
+    "height": 0.19166666
+  }, {
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.14375,
+    "y": 0.2,
+    "width": 0.12708335,
+    "height": 0.19722222
+  }, {
+    "name": "Don",
+    "email": "sierra.dakin@att.net",
+    "googleProfilePage": "",
+    "x": 0.39791667,
+    "y": 0.2638889,
+    "width": 0.11458331,
+    "height": 0.17777777
+  }, {
+    "name": "Tanner",
+    "email": "",
+    "googleProfilePage": "",
+    "x": 0.6458333,
+    "y": 0.20555556,
+    "width": 0.10625005,
+    "height": 0.16388887
+  }]
+}

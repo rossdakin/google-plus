@@ -1,0 +1,53 @@
+{
+  "title": "IMG_3604.jpg",
+  "description": "\"Don\u0027t you drop me.\"",
+  "url": "https://lh3.googleusercontent.com/-uqssVfWxyqA/SQN_vjguTlI/AAAAAAAAMDg/4aGQ_96pyskE1l-EYdL72AzGnznV-NDjwCLABGAYYCw/s0-d/IMG_3604.jpg",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1224966078",
+    "formatted": "Oct 25, 2008, 8:21:18 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277472",
+    "formatted": "Feb 27, 2019, 2:24:32 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "David",
+    "email": "",
+    "googleProfilePage": "",
+    "x": 0.26666668,
+    "y": 0.34375,
+    "width": 0.09166664,
+    "height": 0.08125001
+  }, {
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.33888888,
+    "y": 0.34375,
+    "width": 0.19722223,
+    "height": 0.17708331
+  }, {
+    "name": "Jenn",
+    "email": "jzehenni@gmail.com",
+    "googleProfilePage": "",
+    "x": 0.19333333,
+    "y": 0.4325,
+    "width": 0.26666668,
+    "height": 0.25
+  }]
+}

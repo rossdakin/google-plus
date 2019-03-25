@@ -1,0 +1,45 @@
+{
+  "title": "04-11-09_1853.jpg",
+  "description": "A drink before Jake Shimabukuro.",
+  "url": "https://lh3.googleusercontent.com/-uNQ7QIeihII/Se_RWzvH0UI/AAAAAAAAMCI/VAE1gBJZNR0-d6XzXQfkUL3-OPVX3ixngCLABGAYYCw/s0-d/04-11-09_1853.jpg",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1240453467",
+    "formatted": "Apr 23, 2009, 2:24:27 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1490503996",
+    "formatted": "Mar 26, 2017, 4:53:16 AM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Kyle Dakin",
+    "email": "kyledakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/101361553751233385893",
+    "x": 0.4171875,
+    "y": 0.047916666,
+    "width": 0.296875,
+    "height": 0.45833337
+  }, {
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.071875,
+    "y": 0.0,
+    "width": 0.36875,
+    "height": 0.49791667
+  }]
+}

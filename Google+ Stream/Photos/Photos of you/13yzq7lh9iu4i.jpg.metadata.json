@@ -1,0 +1,61 @@
+{
+  "title": "IMG_3624.jpg",
+  "description": "Christmas Card Pic, take 2?",
+  "url": "https://lh3.googleusercontent.com/-GeDvyAPbzMk/SQN7UXNfBgI/AAAAAAAAMD0/Q2M2mqEImyw4fVjxSru_oGqrEe9ltms5gCLABGAYYCw/s0-d/IMG_3624.jpg",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1224964945",
+    "formatted": "Oct 25, 2008, 8:02:25 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277411",
+    "formatted": "Feb 27, 2019, 2:23:31 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.68333334,
+    "y": 0.25833333,
+    "width": 0.13611108,
+    "height": 0.12083334
+  }, {
+    "name": "Kyle Dakin",
+    "email": "kyledakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/101361553751233385893",
+    "x": 0.55333334,
+    "y": 0.34,
+    "width": 0.120000005,
+    "height": 0.1275
+  }, {
+    "name": "Meryl Dakin",
+    "email": "meryldakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/111992294725049706781",
+    "x": 0.36333334,
+    "y": 0.305,
+    "width": 0.12666667,
+    "height": 0.1275
+  }, {
+    "name": "Don",
+    "email": "sierra.dakin@att.net",
+    "googleProfilePage": "",
+    "x": 0.175,
+    "y": 0.26875,
+    "width": 0.13611113,
+    "height": 0.12083331
+  }]
+}

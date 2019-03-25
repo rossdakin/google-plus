@@ -1,0 +1,45 @@
+{
+  "title": "IMG_2495.JPG",
+  "description": "Cheers!",
+  "url": "https://lh3.googleusercontent.com/-ch_2RoCUW2k/Rl0wCuRWauI/AAAAAAAAMCo/rhKeJtauK-IEGFMObL1E-cRRkTbeVYULgCLABGAYYCw/s0-d/IMG_2495.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1180512266",
+    "formatted": "May 30, 2007, 8:04:26 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277780",
+    "formatted": "Feb 27, 2019, 2:29:40 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Martha Whitmore",
+    "email": "marthawhitmore@gmail.com",
+    "googleProfilePage": "https://plus.google.com/103305936541557486119",
+    "x": 0.205625,
+    "y": 0.25333333,
+    "width": 0.26875,
+    "height": 0.41583335
+  }, {
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.53,
+    "y": 0.13583334,
+    "width": 0.27250004,
+    "height": 0.43583333
+  }]
+}

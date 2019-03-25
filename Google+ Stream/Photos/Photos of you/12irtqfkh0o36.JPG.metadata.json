@@ -1,0 +1,45 @@
+{
+  "title": "IMG_2496.JPG",
+  "description": "Just before dinner.",
+  "url": "https://lh3.googleusercontent.com/-m-yYy4jKFTA/Rl0wD-RWavI/AAAAAAAAMCs/sGdaGhvR91U9K1oUiH-jlsAhT6QjHvvPgCLABGAYYCw/s0-d/IMG_2496.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1180512270",
+    "formatted": "May 30, 2007, 8:04:30 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277780",
+    "formatted": "Feb 27, 2019, 2:29:40 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Kristen",
+    "email": "kimorse@scu.edu",
+    "googleProfilePage": "",
+    "x": 0.321875,
+    "y": 0.24,
+    "width": 0.20562497,
+    "height": 0.31916666
+  }, {
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.4475,
+    "y": 0.15916666,
+    "width": 0.21500003,
+    "height": 0.33333334
+  }]
+}

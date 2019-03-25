@@ -1,0 +1,45 @@
+{
+  "title": "photo1.jpg",
+  "description": "At the ceremony (Community Presbyterian Church of Calistoga)",
+  "url": "https://lh3.googleusercontent.com/-zgTQe0t6o_E/Sj_xmw9izQI/AAAAAAAATUo/4oXNaiWtY64yoKz4kvNSNpWY-JkiKVBLwCLABGAYYCw/s0-d/photo1.jpg",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1245704603",
+    "formatted": "Jun 22, 2009, 9:03:23 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1531917958",
+    "formatted": "Jul 18, 2018, 12:45:58 PM UTC"
+  },
+  "geoData": {
+    "latitude": 38.58000183105469,
+    "longitude": -122.58200073242188,
+    "altitude": "NaN",
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 38.58000183105469,
+    "longitude": -122.58200073242188,
+    "altitude": "NaN",
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Meryl Dakin",
+    "email": "meryldakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/111992294725049706781",
+    "x": 0.1,
+    "y": 0.086666666,
+    "width": 0.42625,
+    "height": 0.6616667
+  }, {
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.39,
+    "y": 0.1,
+    "width": 0.35250002,
+    "height": 0.54499996
+  }]
+}

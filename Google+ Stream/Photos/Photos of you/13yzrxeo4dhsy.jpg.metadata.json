@@ -1,0 +1,45 @@
+{
+  "title": "IMG_3599.jpg",
+  "description": "Boogy Woogy",
+  "url": "https://lh3.googleusercontent.com/-bvBYkFwerKo/SQN_uTmvn2I/AAAAAAAAMDA/96O8miNMxgM9UsCsgiGJF2df_eaQvghVgCLABGAYYCw/s0-d/IMG_3599.jpg",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1224966073",
+    "formatted": "Oct 25, 2008, 8:21:13 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277472",
+    "formatted": "Feb 27, 2019, 2:24:32 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.42708334,
+    "y": 0.125,
+    "width": 0.18958333,
+    "height": 0.30277777
+  }, {
+    "name": "Meryl Dakin",
+    "email": "meryldakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/111992294725049706781",
+    "x": 0.65416664,
+    "y": 0.35277778,
+    "width": 0.20000005,
+    "height": 0.3111111
+  }]
+}

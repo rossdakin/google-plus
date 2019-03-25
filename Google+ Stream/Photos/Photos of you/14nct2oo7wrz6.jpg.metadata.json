@@ -1,0 +1,53 @@
+{
+  "title": "photo-1.jpg",
+  "description": "At the reception (Culinary Institute of America)",
+  "url": "https://lh3.googleusercontent.com/-kUY0-RfXl0M/Sj_xnTltHKI/AAAAAAAATUo/l0a4laJW3lE0nbYB8RnURYDzQrqXRyYcQCLABGAYYCw/s0-d/photo-1.jpg",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1245704605",
+    "formatted": "Jun 22, 2009, 9:03:25 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1531917958",
+    "formatted": "Jul 18, 2018, 12:45:58 PM UTC"
+  },
+  "geoData": {
+    "latitude": 38.51433181762695,
+    "longitude": -122.48466491699219,
+    "altitude": "NaN",
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 38.51433181762695,
+    "longitude": -122.48466491699219,
+    "altitude": "NaN",
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.69,
+    "y": 0.09,
+    "width": 0.29833335,
+    "height": 0.26
+  }, {
+    "name": "Kyle Dakin",
+    "email": "kyledakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/101361553751233385893",
+    "x": 0.35,
+    "y": 0.30375,
+    "width": 0.25333336,
+    "height": 0.22124997
+  }, {
+    "name": "Meryl Dakin",
+    "email": "meryldakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/111992294725049706781",
+    "x": 0.14666666,
+    "y": 0.24125,
+    "width": 0.27833337,
+    "height": 0.24375002
+  }]
+}

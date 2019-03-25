@@ -1,0 +1,45 @@
+{
+  "title": "IMG_3580.JPG",
+  "description": "Aww...",
+  "url": "https://lh3.googleusercontent.com/-LKg2N1X0AoA/SQN_p-qMOqI/AAAAAAAAMEA/mrB6nBxV6e05cGe3UTS28s5kMfFStaSHQCLABGAYYCw/s0-d/IMG_3580.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1224966055",
+    "formatted": "Oct 25, 2008, 8:20:55 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277472",
+    "formatted": "Feb 27, 2019, 2:24:32 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Meryl Dakin",
+    "email": "meryldakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/111992294725049706781",
+    "x": 0.1875,
+    "y": 0.058333334,
+    "width": 0.32083333,
+    "height": 0.49722224
+  }, {
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.42708334,
+    "y": 0.075,
+    "width": 0.36041668,
+    "height": 0.56111115
+  }]
+}

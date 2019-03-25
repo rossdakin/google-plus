@@ -1,0 +1,53 @@
+{
+  "title": "Picture 021.jpg",
+  "description": "Flip Cup",
+  "url": "https://lh3.googleusercontent.com/-AvhDdUbvn0I/Rniadf5UgCI/AAAAAAAAMFE/-2yecvxm2zctCd2Pg39A9hPQCbP5VF6EACLABGAYYCw/s0-d/Picture%2B021.jpg",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1182308981",
+    "formatted": "Jun 20, 2007, 3:09:41 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277780",
+    "formatted": "Feb 27, 2019, 2:29:40 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Martha Whitmore",
+    "email": "marthawhitmore@gmail.com",
+    "googleProfilePage": "https://plus.google.com/103305936541557486119",
+    "x": 0.189375,
+    "y": 0.2225,
+    "width": 0.10125001,
+    "height": 0.15666667
+  }, {
+    "name": "Meryl Dakin",
+    "email": "meryldakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/111992294725049706781",
+    "x": 0.7975,
+    "y": 0.205,
+    "width": 0.10812497,
+    "height": 0.1675
+  }, {
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.39,
+    "y": 0.1925,
+    "width": 0.060625017,
+    "height": 0.096666664
+  }]
+}

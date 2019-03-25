@@ -1,0 +1,45 @@
+{
+  "title": "IMG_3050.JPG",
+  "description": "Sheri and Ross",
+  "url": "https://lh3.googleusercontent.com/-bRwiEcfV0nI/Rt5gG8Qq47I/AAAAAAAAL90/CEgtUavcQtwojhv7J2MuS22Cf24rFvMuQCLABGAYYCw/s0-d/IMG_3050.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1188978715",
+    "formatted": "Sep 5, 2007, 7:51:55 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277657",
+    "formatted": "Feb 27, 2019, 2:27:37 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.40208334,
+    "y": 0.19166666,
+    "width": 0.17708331,
+    "height": 0.27222222
+  }, {
+    "name": "Sheri",
+    "email": "",
+    "googleProfilePage": "",
+    "x": 0.32291666,
+    "y": 0.29444444,
+    "width": 0.17291668,
+    "height": 0.2638889
+  }]
+}

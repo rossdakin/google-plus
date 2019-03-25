@@ -1,0 +1,37 @@
+{
+  "title": "DSCN1514.JPG",
+  "description": "Cheese!",
+  "url": "https://lh3.googleusercontent.com/-HjljY7hI6Dc/R_HcORgKB4I/AAAAAAAAMGY/O82GI0yJm-czCkVKWktUSLSwuOMs_KKOACLABGAYYCw/s0-d/DSCN1514.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1207032889",
+    "formatted": "Apr 1, 2008, 6:54:49 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277533",
+    "formatted": "Feb 27, 2019, 2:25:33 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.38625,
+    "y": 0.155,
+    "width": 0.26312503,
+    "height": 0.4075
+  }]
+}

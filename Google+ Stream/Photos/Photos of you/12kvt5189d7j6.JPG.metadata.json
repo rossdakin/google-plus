@@ -1,0 +1,61 @@
+{
+  "title": "IMG_2931.JPG",
+  "description": "The False Diploma",
+  "url": "https://lh3.googleusercontent.com/-b8jVc4oI41c/Rniahf5UgGI/AAAAAAAAMFU/CbFZ_RaemhMrF_Hmc_LZBYapKPVCV8B5gCLABGAYYCw/s0-d/IMG_2931.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1182308997",
+    "formatted": "Jun 20, 2007, 3:09:57 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277780",
+    "formatted": "Feb 27, 2019, 2:29:40 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Kyle Dakin",
+    "email": "kyledakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/101361553751233385893",
+    "x": 0.501875,
+    "y": 0.24833333,
+    "width": 0.11250001,
+    "height": 0.17333332
+  }, {
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.306875,
+    "y": 0.065,
+    "width": 0.12812501,
+    "height": 0.19916666
+  }, {
+    "name": "Don",
+    "email": "sierra.dakin@att.net",
+    "googleProfilePage": "",
+    "x": 0.140625,
+    "y": 0.104166664,
+    "width": 0.134375,
+    "height": 0.20750001
+  }, {
+    "name": "Meryl Dakin",
+    "email": "meryldakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/111992294725049706781",
+    "x": 0.66875,
+    "y": 0.20166667,
+    "width": 0.125,
+    "height": 0.19333334
+  }]
+}

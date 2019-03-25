@@ -1,0 +1,45 @@
+{
+  "title": "DSCN0978.JPG",
+  "description": "          ",
+  "url": "https://lh3.googleusercontent.com/-Vr7ABSJ2o6Y/R5STvcscqgI/AAAAAAAAL-Q/8DhrYPekyNMXv1k0-fM4CNif0lYcxx6XQCLABGAYYCw/s0-d/DSCN0978.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1200919485",
+    "formatted": "Jan 21, 2008, 12:44:45 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277595",
+    "formatted": "Feb 27, 2019, 2:26:35 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.503125,
+    "y": 0.14083333,
+    "width": 0.18062496,
+    "height": 0.27999997
+  }, {
+    "name": "Kyle Dakin",
+    "email": "kyledakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/101361553751233385893",
+    "x": 0.33375,
+    "y": 0.195,
+    "width": 0.14999998,
+    "height": 0.23166668
+  }]
+}

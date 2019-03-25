@@ -1,0 +1,85 @@
+{
+  "title": "DSCN1450.JPG",
+  "description": "Good friends.",
+  "url": "https://lh3.googleusercontent.com/-3KsF1N_5W2E/R9Y2Lh5DVgI/AAAAAAAATUw/Z67jXJvE4ToFW3itEY4VhZkcJkxPqqLzgCLABGAYYCw/s0-d/DSCN1450.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1205220910",
+    "formatted": "Mar 11, 2008, 7:35:10 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277595",
+    "formatted": "Feb 27, 2019, 2:26:35 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.44125,
+    "y": 0.14,
+    "width": 0.06125,
+    "height": 0.095
+  }, {
+    "name": "Anastasia",
+    "email": "anastasia.davidova@liveops.com",
+    "googleProfilePage": "",
+    "x": 0.498125,
+    "y": 0.1825,
+    "width": 0.06687501,
+    "height": 0.106666654
+  }, {
+    "name": "Keith",
+    "email": "keith@liveops.com",
+    "googleProfilePage": "",
+    "x": 0.68125,
+    "y": 0.21,
+    "width": 0.067499995,
+    "height": 0.105000004
+  }, {
+    "name": "Katie Gottlieb",
+    "email": "gottkatie@gmail.com",
+    "googleProfilePage": "",
+    "x": 0.29125,
+    "y": 0.26416665,
+    "width": 0.061875015,
+    "height": 0.09583336
+  }, {
+    "name": "John",
+    "email": "",
+    "googleProfilePage": "",
+    "x": 0.606875,
+    "y": 0.20666666,
+    "width": 0.063125014,
+    "height": 0.09750001
+  }, {
+    "name": "David",
+    "email": "dclarke@liveops.com",
+    "googleProfilePage": "",
+    "x": 0.16875,
+    "y": 0.22833334,
+    "width": 0.068749994,
+    "height": 0.10666667
+  }, {
+    "name": "Jenn",
+    "email": "jzehenni@gmail.com",
+    "googleProfilePage": "",
+    "x": 0.3675,
+    "y": 0.19333333,
+    "width": 0.06562498,
+    "height": 0.10249999
+  }]
+}

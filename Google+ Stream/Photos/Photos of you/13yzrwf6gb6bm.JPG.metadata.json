@@ -1,0 +1,45 @@
+{
+  "title": "IMG_3579.JPG",
+  "description": "Siblings",
+  "url": "https://lh3.googleusercontent.com/-o_QPNNQC09w/SQN_pzzizMI/AAAAAAAAMD4/PDb7XHQUTDswL1UHRZ5I4L9-KYwnuNgHwCLABGAYYCw/s0-d/IMG_3579.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1224966055",
+    "formatted": "Oct 25, 2008, 8:20:55 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277472",
+    "formatted": "Feb 27, 2019, 2:24:32 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.42291668,
+    "y": 0.2888889,
+    "width": 0.32499996,
+    "height": 0.49999997
+  }, {
+    "name": "Meryl Dakin",
+    "email": "meryldakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/111992294725049706781",
+    "x": 0.19375,
+    "y": 0.2,
+    "width": 0.26666668,
+    "height": 0.41388887
+  }]
+}

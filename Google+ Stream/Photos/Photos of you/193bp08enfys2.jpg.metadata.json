@@ -1,0 +1,37 @@
+{
+  "title": "IMG_20131013_140600.jpg",
+  "description": "",
+  "url": "https://lh3.googleusercontent.com/-Z-Nvz2KtOzw/Ul3T4oUbTNI/AAAAAAABXKg/9X0928QwerUL6uBHWDdw7Oz2XUVlXAu3gCLABGAYYCw/s0-d/IMG_20131013_140600.jpg",
+  "imageViews": "386",
+  "creationTime": {
+    "timestamp": "1381880802",
+    "formatted": "Oct 15, 2013, 11:46:42 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1552332077",
+    "formatted": "Mar 11, 2019, 7:21:17 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.42,
+    "y": 0.454375,
+    "width": 0.087500006,
+    "height": 0.07624999
+  }]
+}

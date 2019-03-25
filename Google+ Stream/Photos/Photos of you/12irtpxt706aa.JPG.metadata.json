@@ -1,0 +1,37 @@
+{
+  "title": "IMG_2479.JPG",
+  "description": "Gentlemen",
+  "url": "https://lh3.googleusercontent.com/-DYqGuy8YLc0/Rl0wBuRWatI/AAAAAAAAMCg/s8uRQK9NhT0hECjef_0-7ny2ZoD5Wv7GACLABGAYYCw/s0-d/IMG_2479.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1180512262",
+    "formatted": "May 30, 2007, 8:04:22 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277780",
+    "formatted": "Feb 27, 2019, 2:29:40 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.461875,
+    "y": 0.33333334,
+    "width": 0.12750003,
+    "height": 0.19833335
+  }]
+}

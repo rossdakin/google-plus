@@ -1,0 +1,37 @@
+{
+  "title": "DSCN1189.JPG",
+  "description": "",
+  "url": "https://lh3.googleusercontent.com/-RbuOVYA7eW8/R84Ug0IMUaI/AAAAAAAAL_U/KQUAFT1A-Kg0psrLic8I7fwpvm0-BVOtACLABGAYYCw/s0-d/DSCN1189.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1204688003",
+    "formatted": "Mar 5, 2008, 3:33:23 AM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1527870385",
+    "formatted": "Jun 1, 2018, 4:26:25 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.466,
+    "y": 0.252,
+    "width": 0.06799999,
+    "height": 0.10533333
+  }]
+}

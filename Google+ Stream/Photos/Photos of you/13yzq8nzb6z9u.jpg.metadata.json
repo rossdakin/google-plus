@@ -1,0 +1,45 @@
+{
+  "title": "IMG_3637.jpg",
+  "description": "Choco covered strawberry, mmm...",
+  "url": "https://lh3.googleusercontent.com/-lHVSBq5INb4/SQN7ZPbFvxI/AAAAAAAAMDs/FW3BTh1Q7IsOnyaYBifYbvsHYnYgOAFcwCLABGAYYCw/s0-d/IMG_3637.jpg",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1224964964",
+    "formatted": "Oct 25, 2008, 8:02:44 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277411",
+    "formatted": "Feb 27, 2019, 2:23:31 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.41666666,
+    "y": 0.06111111,
+    "width": 0.43333337,
+    "height": 0.675
+  }, {
+    "name": "Sarah",
+    "email": "",
+    "googleProfilePage": "",
+    "x": 0.0,
+    "y": 0.0,
+    "width": 0.30833334,
+    "height": 0.44444445
+  }]
+}

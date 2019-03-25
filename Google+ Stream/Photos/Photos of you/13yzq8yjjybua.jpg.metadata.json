@@ -1,0 +1,85 @@
+{
+  "title": "IMG_3642.jpg",
+  "description": "Meryl has obviously never played baseball.",
+  "url": "https://lh3.googleusercontent.com/-YHPeQiLfLQc/SQN7alExr3I/AAAAAAAAMDU/fcdub6yZNJIxnvS8yA6TzA0yTkArx7ZcQCLABGAYYCw/s0-d/IMG_3642.jpg",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1224964970",
+    "formatted": "Oct 25, 2008, 8:02:50 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277411",
+    "formatted": "Feb 27, 2019, 2:23:31 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Meryl Dakin",
+    "email": "meryldakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/111992294725049706781",
+    "x": 0.33333334,
+    "y": 0.495,
+    "width": 0.09,
+    "height": 0.09499997
+  }, {
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.39,
+    "y": 0.39,
+    "width": 0.08000001,
+    "height": 0.08250001
+  }, {
+    "name": "Tony Guinn",
+    "email": "",
+    "googleProfilePage": "",
+    "x": 0.40333334,
+    "y": 0.0425,
+    "width": 0.116666645,
+    "height": 0.1075
+  }, {
+    "name": "Tanner",
+    "email": "",
+    "googleProfilePage": "",
+    "x": 0.096666664,
+    "y": 0.3775,
+    "width": 0.08333334,
+    "height": 0.077500015
+  }, {
+    "name": "Sarah",
+    "email": "",
+    "googleProfilePage": "",
+    "x": 0.14,
+    "y": 0.5275,
+    "width": 0.08333333,
+    "height": 0.09000003
+  }, {
+    "name": "Kyle Dakin",
+    "email": "kyledakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/101361553751233385893",
+    "x": 0.52666664,
+    "y": 0.505,
+    "width": 0.0866667,
+    "height": 0.08249998
+  }, {
+    "name": "Don",
+    "email": "sierra.dakin@att.net",
+    "googleProfilePage": "",
+    "x": 0.6433333,
+    "y": 0.4725,
+    "width": 0.09000003,
+    "height": 0.09
+  }]
+}

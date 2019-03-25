@@ -1,0 +1,45 @@
+{
+  "title": "IMG_3601.jpg",
+  "description": "Why so serious?",
+  "url": "https://lh3.googleusercontent.com/-8wsafZKivMY/SQN_vF2KFMI/AAAAAAAAMDQ/M8wl516LiPoTv6bxAywwRDMiKPyJGm0QACLABGAYYCw/s0-d/IMG_3601.jpg",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1224966076",
+    "formatted": "Oct 25, 2008, 8:21:16 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277472",
+    "formatted": "Feb 27, 2019, 2:24:32 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Jenn",
+    "email": "jzehenni@gmail.com",
+    "googleProfilePage": "",
+    "x": 0.26666668,
+    "y": 0.24166666,
+    "width": 0.26874998,
+    "height": 0.43055552
+  }, {
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.56041664,
+    "y": 0.13055556,
+    "width": 0.36875004,
+    "height": 0.57222223
+  }]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "DSCN1499.JPG",
+  "description": "Picnic at the winery.",
+  "url": "https://lh3.googleusercontent.com/-Z2WFp-TEPiA/R-fsHRgKBwI/AAAAAAAAL-c/0AvJwv_PiO83xprMeY-JyiblSejUwmXIgCLABGAYYCw/s0-d/DSCN1499.JPG",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1206381597",
+    "formatted": "Mar 24, 2008, 5:59:57 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277533",
+    "formatted": "Feb 27, 2019, 2:25:33 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.7625,
+    "y": 0.29833335,
+    "width": 0.06375003,
+    "height": 0.09916666
+  }, {
+    "name": "Don",
+    "email": "sierra.dakin@att.net",
+    "googleProfilePage": "",
+    "x": 0.649375,
+    "y": 0.33083335,
+    "width": 0.05562496,
+    "height": 0.08666664
+  }, {
+    "name": "Meryl Dakin",
+    "email": "meryldakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/111992294725049706781",
+    "x": 0.3625,
+    "y": 0.36333334,
+    "width": 0.046875,
+    "height": 0.07249999
+  }, {
+    "name": "Kyle Dakin",
+    "email": "kyledakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/101361553751233385893",
+    "x": 0.279375,
+    "y": 0.3925,
+    "width": 0.050625026,
+    "height": 0.07833332
+  }]
+}

@@ -1,0 +1,77 @@
+{
+  "title": "IMG_3629.jpg",
+  "description": "A street we had to find.",
+  "url": "https://lh3.googleusercontent.com/-TVC1lbK0df8/SQN7WMNAKGI/AAAAAAAAMEo/je2KEd7IhlA84f3N2d5FLCrBGV_4sRFgwCLABGAYYCw/s0-d/IMG_3629.jpg",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1224964952",
+    "formatted": "Oct 25, 2008, 8:02:32 PM UTC"
+  },
+  "modificationTime": {
+    "timestamp": "1551277411",
+    "formatted": "Feb 27, 2019, 2:23:31 PM UTC"
+  },
+  "geoData": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ross Dakin",
+    "email": "rossdakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/+RossDakin",
+    "x": 0.18888889,
+    "y": 0.39791667,
+    "width": 0.113888875,
+    "height": 0.10416669
+  }, {
+    "name": "Sarah",
+    "email": "",
+    "googleProfilePage": "",
+    "x": 0.36666667,
+    "y": 0.4225,
+    "width": 0.123333335,
+    "height": 0.11750001
+  }, {
+    "name": "Meryl Dakin",
+    "email": "meryldakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/111992294725049706781",
+    "x": 0.48666668,
+    "y": 0.4325,
+    "width": 0.116666675,
+    "height": 0.125
+  }, {
+    "name": "Tanner",
+    "email": "",
+    "googleProfilePage": "",
+    "x": 0.63,
+    "y": 0.3775,
+    "width": 0.123333335,
+    "height": 0.13499999
+  }, {
+    "name": "Don",
+    "email": "sierra.dakin@att.net",
+    "googleProfilePage": "",
+    "x": 0.52,
+    "y": 0.6475,
+    "width": 0.14333338,
+    "height": 0.14000005
+  }, {
+    "name": "Kyle Dakin",
+    "email": "kyledakin@gmail.com",
+    "googleProfilePage": "https://plus.google.com/101361553751233385893",
+    "x": 0.3611111,
+    "y": 0.67291665,
+    "width": 0.13333333,
+    "height": 0.12083334
+  }]
+}
