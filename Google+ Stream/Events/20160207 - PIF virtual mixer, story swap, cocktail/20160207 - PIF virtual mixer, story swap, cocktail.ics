@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:rma0qdva9pke41nlijcommd4s8@events.plus.google.com
+DTSTAMP:20190323T171556-0400
+CREATED:20160126T214843-0500
+LAST-MODIFIED:20160207T171716-0500
+SUMMARY:PIF virtual mixer\, story swap\, cocktail hour\, and medicine show: Current Fellows Especially Wanted!
+DESCRIPTION:This is an informal virtual on-air hangout for the new PIFs to chat with the old PIFs, people to ask questions, tell funny stories, and try to create a spirit of camaraderie.<br /><br />We may try to do the next one on a week night. If people enjoy it we can try to do these regularly.
+URL:https://plus.google.com/events/crma0qdva9pke41nlijcommd4s8
+END:VEVENT
+END:VCALENDAR

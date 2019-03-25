@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0kkngjk7fq2livm5qi33ne7j0g@events.plus.google.com
+DTSTAMP:20190323T171554-0400
+CREATED:20131113T163015-0500
+LAST-MODIFIED:20131128T214622-0500
+SUMMARY:Bill McKibben and Billy Parish Talk #MoneyShift
+DESCRIPTION:Join Bill McKibben (Founder of 350.org) and Billy Parish (Co-Founder and President of Mosaic) in a live G+ Hangout On Air to discuss #MoneyShift. MoneyShift represents a new model of shifting our collective money from the fossil fuel economy to a sustainable one. Now is the time to divest from fossil fuels and invest in renewable energy!
+URL:https://plus.google.com/events/c0kkngjk7fq2livm5qi33ne7j0g
+END:VEVENT
+END:VCALENDAR
